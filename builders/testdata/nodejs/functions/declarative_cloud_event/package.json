@@ -1,6 +1,6 @@
 {
   "main": "index.js",
   "dependencies": {
-    "@google-cloud/functions-framework": "^2.0.0"
+    "@google-cloud/functions-framework": "^3.1.1"
   }
 }
